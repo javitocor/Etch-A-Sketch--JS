@@ -64,7 +64,7 @@ Additional description about the project and its features.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Rock-Paper-Scissors-JS/issues).
+Feel free to check the [issues page](https://github.com/javitocor/javitocor/Etch-A-Sketch--JS/issues).
 
 ## Show your support
 
@@ -81,11 +81,11 @@ This project is [MIT](lic.url) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Rock-Paper-Scissors-JS.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Rock-Paper-Scissors-JS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/Rock-Paper-Scissors-JS.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/Rock-Paper-Scissors-JS/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/Rock-Paper-Scissors-JS.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/Rock-Paper-Scissors-JS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/Rock-Paper-Scissors-JS.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/Rock-Paper-Scissors-JS/issues
+[contributors-shield]: https://img.shields.io/github/contributors/javitocor/javitocor/Etch-A-Sketch--JS.svg?style=flat-square
+[contributors-url]: https://github.com/javitocor/javitocor/Etch-A-Sketch--JS/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/javitocor/javitocor/Etch-A-Sketch--JS.svg?style=flat-square
+[forks-url]: https://github.com/javitocor/javitocor/Etch-A-Sketch--JS/network/members
+[stars-shield]: https://img.shields.io/github/stars/javitocor/javitocor/Etch-A-Sketch--JS.svg?style=flat-square
+[stars-url]: https://github.com/javitocor/javitocor/Etch-A-Sketch--JS/stargazers
+[issues-shield]: https://img.shields.io/github/issues/javitocor/javitocor/Etch-A-Sketch--JS.svg?style=flat-square
+[issues-url]: https://github.com/javitocor/javitocor/Etch-A-Sketch--JS/issues
