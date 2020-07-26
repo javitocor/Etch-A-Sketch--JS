@@ -24,7 +24,7 @@
 > Users can play with a digital etch-a-sketch. Built with JS following the requirements in The Odin Project.
 
 Game:
-![screenshot]()
+![screenshot](./assets/screenshot.png)
 
 Additional description about the project and its features.
 
