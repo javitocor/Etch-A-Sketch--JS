@@ -43,7 +43,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link]() :point_left:
+[Live Demo Link](https://javitocor.github.io/Etch-A-Sketch--JS/) :point_left:
 
 ## Getting Started
 
