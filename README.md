@@ -37,9 +37,12 @@ Additional description about the project and its features.
 
 ## Instrucions to Play
 
-- CLick start button, and introduce the grid size.
+- CLick 'Start' button, and introduce the grid size.
+- Choose color.
 - In the board, the user can draw something by dragging the mouse.
+- Press a key to stop painting and press the space bar to paint again.
 - Click 'Reset' button to clean up the board and start drawing again.
+- Click 'Start' to change again the grid size.
 
 ## Live Demo
 
