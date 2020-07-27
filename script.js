@@ -43,7 +43,7 @@ reset.addEventListener('click', function(){
 document.addEventListener("keypress", function stopPaint(event){
   let x = event.keyCode;
   const grid = document.getElementsByClassName('grid-item');
-  if(x !== 32) {
+  if(x !== 13) {
     Array.from(grid).forEach((el) => {
       el.removeEventListener("mouseover", paint);  
     });
