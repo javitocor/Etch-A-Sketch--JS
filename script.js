@@ -40,3 +40,20 @@ reset.addEventListener('click', function(){
   makeRows(size, size);
 });
 
+document.addEventListener("keypress", function stopPaint(event){
+  let x = event.keyCode;
+  const grid = document.getElementsByClassName('grid-item');
+  if(x !== 32) {
+    Array.from(grid).forEach((el) => {
+      el.removeEventListener("mouseover", paint);  
+    });
+  } else {
+    Array.from(grid).forEach((el) => {
+      el.addEventListener("mouseover", paint);
+    })
+  };
+});
+
+
+
+
