@@ -15,8 +15,11 @@ function makeRows(rows, cols) {
   };
 };
 
+const color = document.getElementById('favcolor');
+
 function paint(e) {
-  e.target.style.backgroundColor= 'black';
+  let chooseColor = color.value;
+  e.target.style.backgroundColor= chooseColor;
 }
 
 let size = 0;
@@ -36,3 +39,4 @@ reset.addEventListener('click', function(){
   container.innerHTML = '';
   makeRows(size, size);
 });
+

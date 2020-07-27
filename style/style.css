@@ -3,9 +3,9 @@
   --grid-rows: 1;
 }
 
-#container {  
+#container {
   overflow: hidden;
-  height : 960px;
+  height: 960px;
   width: 960px;
   display: grid;
   grid-template-rows: repeat(var(--grid-rows), 1fr);
@@ -18,4 +18,26 @@
   padding: 1em;
   text-align: center;
   background-color: gray;
+}
+
+#favcolor {
+  border-radius: 100%;
+  height: 27px;
+  width: 27px;
+  border: none;
+  outline: none;
+  -webkit-appearance: none;
+  padding: 0;
+}
+
+#favcolor::-webkit-color-swatch-wrapper {
+  padding: 3px;	
+}
+#favcolor::-webkit-color-swatch {
+  border: none;
+  border-radius: 100%;
+}
+
+label {
+  margin: 0;
 }
