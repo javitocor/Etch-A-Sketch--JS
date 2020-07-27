@@ -40,7 +40,7 @@ Additional description about the project and its features.
 - Click 'Start' button, and introduce the grid size.
 - Choose color.
 - In the board, the user can draw something by dragging the mouse.
-- Press a key to stop painting and press the space bar to paint again.
+- Press a key to stop painting and press 'Enter' button to paint again.
 - Click 'Reset' button to clean up the board and start drawing again.
 - Click 'Start' to change again the grid size.
 
